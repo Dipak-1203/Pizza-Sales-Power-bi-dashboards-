@@ -1,0 +1,62 @@
+# 🍕 End-to-End Data Analytics Project | SQL + Power BI
+
+👉 **Yesterday, I shared my SQL project** using a Pizza Sales dataset — today, I’ve taken it one step further by **building a Power BI dashboard** using the same data. 💻📊
+
+I recently completed an **end-to-end data analysis project** using a Pizza Sales dataset.
+
+## ✅ SQL Project
+I wrote **13+ SQL queries** to explore key business insights such as:
+- **Total Revenue & Quantity Sold**
+- **Best-selling Pizzas**
+- **Category & Size-wise Trends**
+- **Daily/Monthly Sales Performance**
+
+## ✅ Power BI Dashboard
+Then, I built an **interactive Power BI dashboard**, fully based on **my own logic** — without any external help or templates.
+
+**Dashboard Features:**
+- Clean and simple visual layout
+- Slicer filters for dynamic exploration
+- Insightful charts for sales trends and product performance
+
+## 🔍 Personal Approach
+- ✅ I completed both the **SQL project** and the **Power BI dashboard** using the same dataset.
+- ✅ I used **my own thinking and logic** — no copied code, no help from others.
+- ✅ I am a **fresher**, and I know this may not be a company-level project — but I’m **learning fast** and committed to proving myself in future projects. 💪
+
+This hands-on project helped me understand how to connect raw data to insights using **SQL and Power BI**. I’m proud to have completed it all **by myself.** 🙌
+
+---
+
+## 📁 Project Files
+
+- `/SQL Queries/` – Contains all 13+ SQL queries used for data exploration.
+- `/PowerBI Dashboard/` – Contains `.pbix` file of the dashboard.
+- `order_details.csv`, `orders.csv`, `pizza_types.csv`, `pizzas.csv` – Dataset files used in this project.
+
+---
+
+## 🚀 Future Goals
+
+In upcoming projects, I will:
+- Use **DAX** and **KPIs**
+- Improve dashboard storytelling
+- Practice advanced SQL analytics and data modeling
+
+---
+
+## 🔗 Connect with Me
+
+- **LinkedIn Profile**: [www.linkedin.com/in/dipak0021]
+- **LinkedIn Posts **: [https://www.linkedin.com/feed/update/urn:li:activity:7354885952873406464/]
+- **GitHub**: [https://github.com/Dipak-1203]
+
+🎯 Looking forward to feedback and connecting with data professionals!
+
+---
+
+## 🛠 Tools Used
+
+- **SQL** (MySQL)
+- **Power BI**
+- **Microsoft Excel**
